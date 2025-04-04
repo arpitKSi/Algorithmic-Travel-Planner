@@ -62,7 +62,7 @@ Abu Dhabi,London,plane,10,666,"Turkish Airlines, 1 stop, Momondo.com"
 
 ## 🖥️ Output
 
-Provide an **ouput.html**, file and you will get all the listing the with your desired conditions.
+Provide an **ouput.html**, file and you will get the travelling routes according to your preferences.
 
 ## 📜 License
 
